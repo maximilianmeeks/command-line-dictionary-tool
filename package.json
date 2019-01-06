@@ -1,0 +1,17 @@
+{
+  "name": "20190107_dictionary-thing",
+  "version": "0.0.1",
+  "description": "A live dictionary cli application",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dictionary",
+    "node",
+    "oxford",
+    "cli"
+  ],
+  "author": "Maximilian Meeks",
+  "license": "MIT"
+}
