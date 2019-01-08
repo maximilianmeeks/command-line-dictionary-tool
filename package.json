@@ -13,5 +13,15 @@
     "cli"
   ],
   "author": "Maximilian Meeks",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "bin": {
+    "dict": "./src/index.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
