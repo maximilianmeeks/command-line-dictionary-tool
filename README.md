@@ -4,8 +4,8 @@ Simple dictionary tool in NodeJS.
 
 ## Instructions
 
-1. Clone Repo to your System
-2. Open the main folder in the Terminal
+1. Clone the repo to your system
+2. Open the main folder in the terminal
 3. Type dict "word" (without the " ) to get a short description from the Oxford Dictionary API
 
 
