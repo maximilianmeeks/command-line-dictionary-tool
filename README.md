@@ -1,6 +1,6 @@
 # CLI Dictionary Tool for Linux
 
-Simple dictionary tool in NodeJS. 
+Simple dictionary tool in Node.js. 
 
 ## Instructions
 
